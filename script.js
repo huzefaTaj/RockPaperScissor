@@ -6,13 +6,13 @@
             var comp= Math.floor(Math.random() * 3) + 1;
             console.log(comp)
             if(comp==1){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-rock-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-rock-solid.svg" alt="">`
             }
             else if(comp==2){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-paper-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-paper-solid.svg" alt="">`
             }
             else if(comp==3){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-scissors-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-scissors-solid.svg" alt="">`
             }
 
 
@@ -33,13 +33,13 @@
             var comp= Math.floor(Math.random() * 3) + 1;
             console.log(comp)
             if(comp==1){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-rock-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-rock-solid.svg" alt="">`
             }
             else if(comp==2){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-paper-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-paper-solid.svg" alt="">`
             }
             else if(comp==3){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-scissors-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-scissors-solid.svg" alt="">`
             }
               var a =2;
               if(a==2&&comp==1){
@@ -61,13 +61,13 @@
             var comp= Math.floor(Math.random() * 3) + 1;
             console.log(comp)
             if(comp==1){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-rock-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-rock-solid.svg" alt="">`
             }
             else if(comp==2){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-paper-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-paper-solid.svg" alt="">`
             }
             else if(comp==3){
-                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock" onclick="rock()" id="rock" src="/RockPaperScissor/image/hand-scissors-solid.svg" alt="">`
+                cimg.innerHTML=`<h3> Computer choose: </h3>\<img class="rock"  id="rock" src="/RockPaperScissor/image/hand-scissors-solid.svg" alt="">`
             }
             var a =3
             if(a==3&&comp==2){
