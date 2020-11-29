@@ -5,6 +5,10 @@
     width: 80px;
     height: 100px;
 }
+.rock:active{
+    width: 90px;
+    height: 100px;
+}
 .ans{
     text-align: center;
     color: red;
